@@ -1,0 +1,8 @@
+vectors are slower than arrays
+
+
+Question: https://cses.fi/problemset/task/1750/
+
+solution using array: https://cses.fi/problemset/result/4629099/
+
+solution using vector( giving TLE and you can also see the difference in the execution time of different test cases ): https://cses.fi/problemset/result/4629110/
