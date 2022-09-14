@@ -6,3 +6,6 @@
 		m = mul(m,m);
 		k/=2;
 	}
+
+
+#reference: at coder, problem name: Walk
