@@ -2,4 +2,4 @@
 
 #
 #
-#Some good code for quick refrence
+#code snippet for quick refrence
