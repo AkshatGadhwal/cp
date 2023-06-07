@@ -19,6 +19,8 @@ This repository contains a collection of frequently used, efficient, and useful 
 The code snippets are available in the following programming languages:
 
 - C++
+- Java
+- Python
 
 ## How to Use
 
